@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+ul, li{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+#myUL{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+#myUL li{
+    padding: 20px;
+}
+    
